@@ -11,15 +11,13 @@
   alt="views"
 />
 
-<p>&nbsp; 秋招中...</p>
+<p>&nbsp; 全力秋招ing</p>
 
 <br clear="both" />
 
 ### About
 
-- 🔭 方向：Java 后端 · AI Agent · RAG
-- 🛠️ 最近在做：[offer-tracker](https://github.com/tlrince/offer-tracker) · [qiuzhao-notes](https://github.com/tlrince/qiuzhao-notes) · [MyCanvasEditor](https://github.com/tlrince/MyCanvasEditor)
-- 📚 面试笔记：[agent_java_offer](https://github.com/tlrince/agent_java_offer)
+- 🔭 方向：Java 后端 · AI Agent
 
 ### Tech-Stacks & Tools
 
