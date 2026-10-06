@@ -41,9 +41,11 @@
 
 <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,githubactions,linux,apple&perline=10" />
 
+<!-- 贪吃蛇：等 update-profile workflow 第一次跑完（生成 output 分支）后取消注释
 ### 🌊 Grand Line
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tlrince/tlrince/output/ocean-dark.svg" />
   <img src="https://raw.githubusercontent.com/tlrince/tlrince/output/ocean.svg" alt="contribution snake" />
 </picture>
+-->
