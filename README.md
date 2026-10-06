@@ -1,10 +1,4 @@
-<h2 align="center">
-  <img
-    height="40"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&color=2F81F7&center=true&vCenter=true&pause=100000&width=320&height=40&lines=Hi+~+I'm+Tlrince"
-    alt="Hi ~ I'm Tlrince"
-  />
-</h2>
+<h2 align="center">Hi ~ I'm Tlrince</h2>
 
 <p align="center">
   <img
