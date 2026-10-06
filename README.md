@@ -1,9 +1,15 @@
-<h2 align="center">Hi ~ I'm Tlrince</h2>
+<h2 align="center">
+  <img
+    height="30"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=1000&repeat=false&color=2F81F7&center=true&vCenter=true&width=300&height=30&lines=Hi+~+I'm+Tlrince"
+    alt="Hi ~ I'm Tlrince"
+  />
+</h2>
 
 <p align="center">
   <img
-    height="32"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=30000&color=F78166&center=true&vCenter=true&width=520&height=32&lines=Job+hunting+all+in,+but+never+skip+the+gym"
+    height="28"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1&pause=1000&repeat=false&color=F78166&center=true&vCenter=true&width=480&height=28&lines=Job+hunting+all+in,+but+never+skip+the+gym"
     alt="Job hunting all in, but never skip the gym"
   />
 </p>
