@@ -15,19 +15,13 @@
 
 <br clear="both" />
 
-<img align="right" width="230" src="./assets/wanted.svg" alt="WANTED" />
+### About
 
-### ⚓ 航海日志
+- 🔭 方向：Java 后端 · AI Agent · RAG
+- 🛠️ 最近在做：[offer-tracker](https://github.com/tlrince/offer-tracker) · [qiuzhao-notes](https://github.com/tlrince/qiuzhao-notes) · [MyCanvasEditor](https://github.com/tlrince/MyCanvasEditor)
+- 📚 面试笔记：[agent_java_offer](https://github.com/tlrince/agent_java_offer)
 
-- 🏴‍☠️ 我是要成为 **Offer 王** 的男人！
-- 🗺️ 正在攻略的岛屿：**Java 后端 · AI Agent · RAG**
-- 🚢 最近在造的船：[offer-tracker](https://github.com/tlrince/offer-tracker) · [qiuzhao-notes](https://github.com/tlrince/qiuzhao-notes) · [MyCanvasEditor](https://github.com/tlrince/MyCanvasEditor)
-- 📜 航海图：[agent_java_offer](https://github.com/tlrince/agent_java_offer)，后端 / Agent / 系统设计面试复习
-- 💰 右边的悬赏金每天自动更新：访问 × 50 万 + Star × 1000 万 + 提交 × 100 万
-
-<br clear="right" />
-
-### 🗡️ Tech-Stacks & Tools
+### Tech-Stacks & Tools
 
 **Programming Languages**
 
@@ -41,11 +35,9 @@
 
 <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,githubactions,linux,apple&perline=10" />
 
-<!-- 贪吃蛇：等 update-profile workflow 第一次跑完（生成 output 分支）后取消注释
-### 🌊 Grand Line
+### Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tlrince/tlrince/output/ocean-dark.svg" />
   <img src="https://raw.githubusercontent.com/tlrince/tlrince/output/ocean.svg" alt="contribution snake" />
 </picture>
--->
