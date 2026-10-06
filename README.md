@@ -1,40 +1,63 @@
-<div align="center">
+<h1 align="center">
+  <img
+    height="56"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&color=2F81F7&center=true&vCenter=true&pause=100000&width=400&height=56&lines=Hi+~+I'm+Tlrince"
+    alt="Hi ~ I'm Tlrince"
+  />
+</h1>
 
-<img
-  width="440"
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&color=2F81F7&center=true&vCenter=true&pause=100000&width=440&height=56&lines=Hi+~+I'm+Tlrince"
-  alt="Hi ~ I'm Tlrince"
-/>
-
-<img
-  width="440"
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=4000&pause=30000&color=F78166&center=true&vCenter=true&width=440&height=28&lines=Job+hunting+all+in,+but+never+skip+the+gym"
-  alt="Job hunting all in, but never skip the gym"
-/>
-
-<p>
-  <sub>🔭 Java Backend &nbsp;·&nbsp; 🤖 AI Agent</sub>
+<p align="center">
+  <img
+    height="32"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=4000&pause=30000&color=F78166&center=true&vCenter=true&width=520&height=32&lines=Job+hunting+all+in,+but+never+skip+the+gym"
+    alt="Job hunting all in, but never skip the gym"
+  />
 </p>
 
-<h2>Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
-<img src="https://skillicons.dev/icons?i=java,py,ts,js,html,css,md" alt="languages" />
-<br />
-<img src="https://skillicons.dev/icons?i=spring,mysql,redis,kafka,rabbitmq,supabase,docker" alt="frameworks" />
-<br />
-<img src="https://skillicons.dev/icons?i=idea,vscode,git,github,githubactions,linux,apple" alt="tools" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-9E6A03?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-1F6FEB?style=flat&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-8957E5?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Spring_Boot-238636?style=flat&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/MySQL-1F2D5C?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DA3633?style=flat&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Kafka-8957E5?style=flat&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/RabbitMQ-9E6A03?style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Docker-1F6FEB?style=flat&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<h2 align="center">Focus Areas</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_Backend-9E6A03?style=flat" alt="Java Backend" />
+  <img src="https://img.shields.io/badge/AI_Agent-8957E5?style=flat" alt="AI Agent" />
+</p>
+
+<h2 align="center">Tools</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-1F2D5C?style=flat&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Git-DA3633?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-1F6FEB?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Linux-238636?style=flat&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/macOS-8957E5?style=flat&logo=apple&logoColor=white" alt="macOS" />
+</p>
 
 <!-- Contribution snake: uncomment once there are more commits
-<h2>Contributions</h2>
+<h2 align="center">Contributions</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tlrince/tlrince/output/ocean-dark.svg" />
-  <img src="https://raw.githubusercontent.com/tlrince/tlrince/output/ocean.svg" alt="contribution snake" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tlrince/tlrince/output/ocean-dark.svg" />
+    <img src="https://raw.githubusercontent.com/tlrince/tlrince/output/ocean.svg" alt="contribution snake" />
+  </picture>
+</p>
 -->
 
-<br /><br />
+<br />
 
-<img height="36" src="https://count.getloli.com/get/@tlrince?theme=3d-num&scale=1.0" alt="visitors" />
-
-</div>
+<p align="center">
+  <img height="100" src="https://count.getloli.com/get/@tlrince?theme=green&scale=1.0" alt="visitors" />
+</p>
