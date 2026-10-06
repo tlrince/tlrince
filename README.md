@@ -1,5 +1,6 @@
 <h2 align="center">
   <img
+    align="middle"
     height="30"
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=1&pause=1000&repeat=false&color=2F81F7&center=true&vCenter=true&width=300&height=30&lines=Hi+~+I'm+Tlrince"
     alt="Hi ~ I'm Tlrince"
