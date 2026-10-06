@@ -1,10 +1,23 @@
-<p align="center">
-  <img height="64" src="https://count.getloli.com/get/@tlrince?theme=3d-num&scale=1.0" alt="views" />
-</p>
+<img
+  width="300"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&color=2F81F7&vCenter=true&pause=100000&width=300&height=45&lines=Hi+~+I'm+Tlrince"
+  alt="Hi ~ I'm Tlrince"
+/>
 
-<p align="center">
-  <img width="400" src="./assets/status.svg" alt="Hi ~ I'm Tlrince · Job hunting all in, but never skip the gym" />
-</p>
+<img
+  align="right"
+  height="48"
+  src="https://count.getloli.com/get/@tlrince?theme=3d-num&scale=1.0"
+  alt="views"
+/>
+
+<img
+  height="48"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=4000&pause=30000&color=F78166&vCenter=true&width=360&height=48&lines=Job+hunting+all+in,+but+never+skip+the+gym"
+  alt="Job hunting all in, but never skip the gym"
+/>
+
+<br clear="both" />
 
 <h2 align="center">About</h2>
 
