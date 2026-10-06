@@ -7,19 +7,19 @@
 </p>
 
 <p align="center">
-  <img height="32" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=18&duration=4000&pause=5000&color=F78166&center=true&vCenter=true&width=190&height=32&lines=%E5%85%A8%E5%8A%9B%E7%A7%8B%E6%8B%9Bing..." alt="全力秋招ing" /><br />
-  <img height="32" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=18&duration=4000&pause=5000&color=F78166&center=true&vCenter=true&width=190&height=32&lines=%E5%8A%AA%E5%8A%9B%E5%81%A5%E8%BA%ABing..." alt="努力健身ing" />
+  <img height="32" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=18&duration=4000&pause=30000&color=F78166&center=true&vCenter=true&width=190&height=32&lines=%E5%85%A8%E5%8A%9B%E7%A7%8B%E6%8B%9Bing..." alt="全力秋招ing" /><br />
+  <img height="32" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=18&duration=4000&pause=30000&color=F78166&center=true&vCenter=true&width=190&height=32&lines=%E5%8A%AA%E5%8A%9B%E5%81%A5%E8%BA%ABing..." alt="努力健身ing" />
 </p>
 
 <p align="center">
   <img height="64" src="https://count.getloli.com/get/@tlrince?theme=3d-num&scale=1.0" alt="views" />
 </p>
 
-<h3 align="center">About</h3>
+<h2 align="center">About</h2>
 
 <p align="center">🔭 方向：Java 后端 · AI Agent</p>
 
-<h3 align="center">Tech-Stacks & Tools</h3>
+<h2 align="center">Tech-Stacks & Tools</h2>
 
 <p align="center"><b>Programming Languages</b></p>
 
@@ -40,7 +40,7 @@
 </p>
 
 <!-- 贡献贪吃蛇：提交多了再取消注释
-<h3 align="center">Contributions</h3>
+<h2 align="center">Contributions</h2>
 
 <p align="center">
   <picture>
