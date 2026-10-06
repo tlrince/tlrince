@@ -11,10 +11,10 @@ import urllib.request
 from xml.sax.saxutils import escape
 
 NAME, NAME_COLOR, NAME_SIZE, NAME_TYPE = "Hi ~ I'm Tlrince", "#2F81F7", 22, 2.0  # typed once, seconds
-LINES = ["All in on job hunting...", "Hitting the gym hard..."]
+LINES = ["Job hunting all in, but never skip the gym"]
 COLOR = "#F78166"
 FONT, WEIGHT, SIZE = "Fira Code", 700, 18
-WIDTH, NAME_GAP, LINE_GAP, PAD = 340, 56, 38, 22  # px: name->first line, between lines, top/bottom
+WIDTH, NAME_GAP, LINE_GAP, PAD = 480, 48, 38, 22  # px: name->first line, between lines, top/bottom
 TYPE, HOLD, ERASE, BLANK = 4.0, 30.0, 1.0, 0.5  # seconds, status line loop
 
 OUT = os.path.join(os.path.dirname(__file__), "..", "assets", "status.svg")

@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="340" src="./assets/status.svg" alt="Hi ~ I'm Tlrince · All in on job hunting... · Hitting the gym hard..." />
+  <img width="480" src="./assets/status.svg" alt="Hi ~ I'm Tlrince · Job hunting all in, but never skip the gym" />
 </p>
 
 <h2 align="center">About</h2>
