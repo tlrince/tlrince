@@ -1,18 +1,9 @@
 <p align="center">
-  <img
-    width="300"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&color=2F81F7&center=true&vCenter=true&pause=100000&width=300&height=45&lines=Hi+~+I'm+Tlrince"
-    alt="Hi ~ I'm Tlrince"
-  />
-</p>
-
-<p align="center">
-  <img height="32" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=30000&color=F78166&center=true&vCenter=true&width=340&height=32&lines=All+in+on+job+hunting..." alt="All in on job hunting..." /><br />
-  <img height="32" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=30000&color=F78166&center=true&vCenter=true&width=340&height=32&lines=Hitting+the+gym+hard..." alt="Hitting the gym hard..." />
-</p>
-
-<p align="center">
   <img height="64" src="https://count.getloli.com/get/@tlrince?theme=3d-num&scale=1.0" alt="views" />
+</p>
+
+<p align="center">
+  <img width="340" src="./assets/status.svg" alt="Hi ~ I'm Tlrince · All in on job hunting... · Hitting the gym hard..." />
 </p>
 
 <h2 align="center">About</h2>
