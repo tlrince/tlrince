@@ -7,7 +7,7 @@
 <img
   align="right"
   height="64"
-  src="https://count.getloli.com/get/@tlrince?theme=minecraft&scale=1.0"
+  src="https://count.getloli.com/get/@tlrince?theme=3d-num&scale=1.0"
   alt="views"
 />
 
