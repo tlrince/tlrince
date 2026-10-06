@@ -11,7 +11,11 @@
   alt="views"
 />
 
-<p>&nbsp; 全力秋招ing</p>
+<img
+  height="32"
+  src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=18&duration=2500&pause=1500&color=F78166&vCenter=true&width=220&height=32&lines=%E5%85%A8%E5%8A%9B%E7%A7%8B%E6%8B%9Bing..."
+  alt="全力秋招ing"
+/>
 
 <br clear="both" />
 
