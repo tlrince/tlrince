@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img height="32" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=18&duration=4000&pause=30000&color=F78166&center=true&vCenter=true&width=190&height=32&lines=%E5%85%A8%E5%8A%9B%E7%A7%8B%E6%8B%9Bing..." alt="全力秋招ing" /><br />
-  <img height="32" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=18&duration=4000&pause=30000&color=F78166&center=true&vCenter=true&width=190&height=32&lines=%E5%8A%AA%E5%8A%9B%E5%81%A5%E8%BA%ABing..." alt="努力健身ing" />
+  <img height="32" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=30000&color=F78166&center=true&vCenter=true&width=340&height=32&lines=All+in+on+job+hunting..." alt="All in on job hunting..." /><br />
+  <img height="32" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=4000&pause=30000&color=F78166&center=true&vCenter=true&width=340&height=32&lines=Hitting+the+gym+hard..." alt="Hitting the gym hard..." />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 <h2 align="center">About</h2>
 
-<p align="center">🔭 方向：Java 后端 · AI Agent</p>
+<p align="center">🔭 Focus: Java Backend · AI Agent</p>
 
 <h2 align="center">Tech-Stacks & Tools</h2>
 
@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,githubactions,linux,apple&perline=10" />
 </p>
 
-<!-- 贡献贪吃蛇：提交多了再取消注释
+<!-- Contribution snake: uncomment once there are more commits
 <h2 align="center">Contributions</h2>
 
 <p align="center">
