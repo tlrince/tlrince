@@ -9,6 +9,7 @@ Usage: GITHUB_TOKEN=xxx python scripts/gen_wanted.py [username]
 import datetime
 import json
 import os
+import re
 import sys
 import urllib.request
 
@@ -55,14 +56,25 @@ def fetch_github(user):
 
 
 def fetch_views(user):
-    """Read-only total from Moe-Counter (does not bump the counter). None on failure."""
-    req = urllib.request.Request(
-        f"https://count.getloli.com/api/stats/series/{user}",
-        headers={"User-Agent": "Mozilla/5.0 (profile-bounty)", "Accept": "application/json"},
-    )
+    """Profile views from Moe-Counter. None on failure.
+
+    count.getloli.com sits behind a Cloudflare challenge, so we go through
+    GitHub's image proxy (camo) instead: render the counter <img> with the
+    markdown API to get a signed camo URL, fetch the SVG and read the digits.
+    Each fetch bumps the counter by one, so callers subtract their own reads.
+    """
     try:
-        return int(json.load(urllib.request.urlopen(req, timeout=20))["total"])
-    except Exception as e:  # Cloudflare challenge, timeout, ...
+        req = urllib.request.Request(
+            "https://api.github.com/markdown",
+            data=json.dumps({"text": f'<img src="https://count.getloli.com/get/@{user}?theme=3d-num&scale=1.0">'}).encode(),
+            headers={"Authorization": f"bearer {os.environ['GITHUB_TOKEN']}"},
+        )
+        html = urllib.request.urlopen(req, timeout=20).read().decode()
+        camo = re.search(r'src="(https://camo\.githubusercontent\.com/[^"]+)"', html).group(1)
+        svg = urllib.request.urlopen(camo, timeout=20).read().decode()
+        digits = re.findall(r'<use[^>]*xlink:href="#(\d)"', svg)
+        return int("".join(digits))
+    except Exception as e:
         print(f"views fetch failed ({e}), keeping last known value")
         return None
 
@@ -77,10 +89,15 @@ def load_cache():
 
 def fetch_stats(user):
     stars, commits = fetch_github(user)
-    views = fetch_views(user)
-    if views is None:
-        views = load_cache().get("views", 0)
-    return {"views": views, "stars": stars, "commits": commits}
+    cache = load_cache()
+    bot_reads = cache.get("bot_reads", 0)
+    raw = fetch_views(user)
+    if raw is None:
+        views = cache.get("views", 0)
+    else:
+        bot_reads += 1
+        views = max(raw - bot_reads, 0)
+    return {"views": views, "stars": stars, "commits": commits, "bot_reads": bot_reads}
 
 
 def bounty(s):
