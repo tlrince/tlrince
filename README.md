@@ -6,15 +6,15 @@
 
 <img
   align="right"
-  height="52"
+  height="54"
   src="https://count.getloli.com/get/@tlrince?theme=minecraft&scale=1.0"
   alt="views"
 />
 
 <img
-  height="52"
-  src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=18&duration=2500&pause=1500&color=F78166&vCenter=true&width=220&height=52&lines=%E5%85%A8%E5%8A%9B%E7%A7%8B%E6%8B%9Bing..."
-  alt="全力秋招ing"
+  height="54"
+  src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=18&duration=2000&pause=1500&color=F78166&multiline=true&repeat=true&width=220&height=54&lines=%E5%85%A8%E5%8A%9B%E7%A7%8B%E6%8B%9Bing...;%E5%8A%AA%E5%8A%9B%E5%81%A5%E8%BA%ABing..."
+  alt="全力秋招ing · 努力健身ing"
 />
 
 <br clear="both" />
