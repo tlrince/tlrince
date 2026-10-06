@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img height="32" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=18&duration=2000&pause=1500&color=F78166&center=true&vCenter=true&width=190&height=32&lines=%E5%85%A8%E5%8A%9B%E7%A7%8B%E6%8B%9Bing..." alt="全力秋招ing" /><br />
-  <img height="32" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=18&duration=2000&pause=1500&color=F78166&center=true&vCenter=true&width=190&height=32&lines=%E5%8A%AA%E5%8A%9B%E5%81%A5%E8%BA%ABing..." alt="努力健身ing" />
+  <img height="32" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=18&duration=4000&pause=5000&color=F78166&center=true&vCenter=true&width=190&height=32&lines=%E5%85%A8%E5%8A%9B%E7%A7%8B%E6%8B%9Bing..." alt="全力秋招ing" /><br />
+  <img height="32" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=18&duration=4000&pause=5000&color=F78166&center=true&vCenter=true&width=190&height=32&lines=%E5%8A%AA%E5%8A%9B%E5%81%A5%E8%BA%ABing..." alt="努力健身ing" />
 </p>
 
 <p align="center">
