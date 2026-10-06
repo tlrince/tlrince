@@ -39,6 +39,7 @@
   <img src="https://skillicons.dev/icons?i=idea,vscode,git,github,githubactions,linux,apple&perline=10" />
 </p>
 
+<!-- 贡献贪吃蛇：提交多了再取消注释
 <h3 align="center">Contributions</h3>
 
 <p align="center">
@@ -47,3 +48,4 @@
     <img src="https://raw.githubusercontent.com/tlrince/tlrince/output/ocean.svg" alt="contribution snake" />
   </picture>
 </p>
+-->
